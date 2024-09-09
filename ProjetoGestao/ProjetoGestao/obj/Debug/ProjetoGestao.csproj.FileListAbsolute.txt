@@ -1,0 +1,7 @@
+C:\Users\Lucas\Desktop\Curso\ProjetoMyrp\ProjetoGestao\ProjetoGestao\bin\Debug\ProjetoGestao.exe.config
+C:\Users\Lucas\Desktop\Curso\ProjetoMyrp\ProjetoGestao\ProjetoGestao\bin\Debug\ProjetoGestao.exe
+C:\Users\Lucas\Desktop\Curso\ProjetoMyrp\ProjetoGestao\ProjetoGestao\bin\Debug\ProjetoGestao.pdb
+C:\Users\Lucas\Desktop\Curso\ProjetoMyrp\ProjetoGestao\ProjetoGestao\obj\Debug\ProjetoGestao.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Curso\ProjetoMyrp\ProjetoGestao\ProjetoGestao\obj\Debug\ProjetoGestao.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Curso\ProjetoMyrp\ProjetoGestao\ProjetoGestao\obj\Debug\ProjetoGestao.exe
+C:\Users\Lucas\Desktop\Curso\ProjetoMyrp\ProjetoGestao\ProjetoGestao\obj\Debug\ProjetoGestao.pdb

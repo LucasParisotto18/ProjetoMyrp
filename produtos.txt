@@ -1,0 +1,6 @@
+1;Arroz;10
+2;Feijão;1020
+3;Abobora;20,5
+4;batata;2
+5;Chicletes;1,9
+6;Alface;20,9
